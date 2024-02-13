@@ -9,6 +9,7 @@ A full-stack project with frontend, backend, and MongoDB that will be able to ha
 
 ### [Path Finder Example Test with React](https://github.com/K3lvin4SY/Path-Finder-React-Example)
 A small test I wanted to do where I have implemented a size-adjustable grid that will have a pathfinder integrated.
+
 You can find the unfinished project deployment [here.](https://k3lvin4sy.github.io/Path-Finder-React-Example/)
 
 ## Finished personal projects

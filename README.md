@@ -8,7 +8,7 @@ I do all my projects and coding here and like to dabble around with small coding
 A full-stack project with frontend, backend, and MongoDB that will be able to handle and show users tasks.
 
 ### [Path Finder Example Test with React](https://github.com/K3lvin4SY/Path-Finder-React-Example)
-A small test I wanted to do where I have implemented a size-adjustable grid that will have a pathfinder integrated.
+A small test I wanted to do where I have implemented a size-adjustable grid that will have a pathfinder integrated later on.
 
 You can find the unfinished project deployment [here.](https://k3lvin4sy.github.io/Path-Finder-React-Example/)
 

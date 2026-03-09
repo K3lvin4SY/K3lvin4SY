@@ -73,7 +73,10 @@ I love turning ideas into real projects — whether it's a hackathon build, a cr
 <tr>
 <td width="50%" valign="top">
 
-<h2><img src="https://raw.githubusercontent.com/K3lvin4SY/bonsai_lundaihackathon/main/assets/images/icon.png" width="28" style="vertical-align: middle;" /> <a href="https://github.com/K3lvin4SY/bonsai_lundaihackathon">Bonsai</a></h2>
+<div style="display: flex; align-items: center; gap: 8px;">
+<img src="https://raw.githubusercontent.com/K3lvin4SY/bonsai_lundaihackathon/main/assets/images/icon.png" width="28" />
+<h2><a href="https://github.com/K3lvin4SY/bonsai_lundaihackathon">Bonsai</a></h2>
+</div>
 A desktop app that gives creative projects a **visual, branch-based history** — built at the Lunda AI Hackathon. Uses *Milestones* instead of commits and *Timelines* instead of branches, making version control intuitive for non-developers working with large binary files.
 
 <sub>Electron · React · TypeScript · xdelta3</sub>
@@ -96,7 +99,10 @@ A full-stack task management application with a frontend, backend API, and Mongo
 <tr>
 <td width="50%" valign="top">
 
-<h2><img src="https://raw.githubusercontent.com/K3lvin4SY/pixcii-fetch/main/src/assets/pixcii-logo.svg" width="22"/> <a href="https://github.com/K3lvin4SY/pixcii-fetch">pixcii-fetch</a></h2>
+<div style="display: flex; align-items: center; gap: 8px;">
+<img src="https://raw.githubusercontent.com/K3lvin4SY/pixcii-fetch/main/src/assets/pixcii-logo.svg" width="28" />
+<h2><a href="https://github.com/K3lvin4SY/pixcii-fetch">pixcii-fetch</a></h2>
+</div>
 Convert images into vibrant terminal art for **Neofetch**, **Winfetch**, and **Fastfetch**. Upload any image, preview the output in real-time, and generate the exact configuration code needed.
 
 <sub>React · TypeScript · Vite · Tailwind CSS</sub>
@@ -104,7 +110,10 @@ Convert images into vibrant terminal art for **Neofetch**, **Winfetch**, and **F
 </td>
 <td width="50%" valign="top">
 
-<h2><img src="https://raw.githubusercontent.com/K3lvin4SY/gradewise/main/public/gradewise-logo.svg" width="22" style="vertical-align: middle;" /> <a href="https://github.com/K3lvin4SY/gradewise">GradeWise</a></h2>
+<div style="display: flex; align-items: center; gap: 8px;">
+<img src="https://raw.githubusercontent.com/K3lvin4SY/gradewise/main/public/gradewise-logo.svg" width="28" />
+<h2><a href="https://github.com/K3lvin4SY/gradewise">GradeWise</a></h2>
+</div>
 Academic companion for tracking grades and visualizing progress — tailored for **LTH students**. Features one-click LADOK transcript import, automatic weighted grade calculation, and a built-in course database.
 
 <sub>React · TypeScript · Vite · Tailwind CSS</sub>

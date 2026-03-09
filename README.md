@@ -73,7 +73,7 @@ I love turning ideas into real projects — whether it's a hackathon build, a cr
 <tr>
 <td width="50%" valign="top">
 
-<h2><img src="https://raw.githubusercontent.com/K3lvin4SY/bonsai_lundaihackathon/main/assets/images/icon.png" width="22" style="vertical-align: middle;" /> <a href="https://github.com/K3lvin4SY/bonsai_lundaihackathon">Bonsai</a></h2>
+<h2><img src="https://raw.githubusercontent.com/K3lvin4SY/bonsai_lundaihackathon/main/assets/images/icon.png" width="28" style="vertical-align: middle;" /> <a href="https://github.com/K3lvin4SY/bonsai_lundaihackathon">Bonsai</a></h2>
 A desktop app that gives creative projects a **visual, branch-based history** — built at the Lunda AI Hackathon. Uses *Milestones* instead of commits and *Timelines* instead of branches, making version control intuitive for non-developers working with large binary files.
 
 <sub>Electron · React · TypeScript · xdelta3</sub>

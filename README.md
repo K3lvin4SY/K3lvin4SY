@@ -4,7 +4,7 @@
 
 **I'm 22 years old, currently in my 3rd year of a Master's in Information & Communication Technology at Lunds Tekniska Högskola (LTH).**
 
-I love turning ideas into real projects — whether it's a hackathon build, a creative tool, or just a fun experiment.
+I love turning ideas into real projects — whether it's a side project, a creative tool, or just a fun experiment.
 
 ---
 
@@ -78,7 +78,7 @@ I love turning ideas into real projects — whether it's a hackathon build, a cr
     <img src="https://raw.githubusercontent.com/K3lvin4SY/bonsai_lundaihackathon/main/assets/images/icon.png" width="28" align="absmiddle" />&nbsp;Bonsai
   </a>
 </h2>
-A desktop app that gives creative projects a <strong>visual, branch-based history</strong> — built at the Lunda AI Hackathon. Uses <em>Milestones</em> instead of commits and <em>Timelines</em> instead of branches, making version control intuitive for non-developers working with large binary files.
+A desktop app that gives creative projects a <strong>visual, branch-based history</strong> — built at a hackathon. Uses <em>Milestones</em> instead of commits and <em>Timelines</em> instead of branches, making version control intuitive for non-developers working with large binary files.
 
 <sub>Electron · React · TypeScript · xdelta3</sub>
 

@@ -139,7 +139,11 @@ An HTML slider puzzle game with tools to edit the game environment. Mix and solv
 </td>
 <td width="50%" valign="top">
 
-<h2><a href="https://github.com/K3lvin4SY/Steam-Inventory-History-Filter-Extension">Steam Inventory History Filter</a></h2>
+<h2>
+  <a href="https://github.com/K3lvin4SY/Steam-Inventory-History-Filter-Extension">
+    <img src="https://raw.githubusercontent.com/K3lvin4SY/Steam-Inventory-History-Filter-Extension/f450b5e99695a358713265bb35a4ccb522fb33df/History%20Utility%20Filter%20Logo.svg" width="28" align="absmiddle" />&nbsp;Steam Inventory History Filter
+  </a>
+</h2>
 A Chrome extension for Counter-Strike that lets you <strong>search, filter, sort, and browse</strong> your entire Steam Inventory History.
 <br/>
 <a href="https://chromewebstore.google.com/detail/csgo-history-utility-filt/deikmkamfnmgcpdncpekplbihdnhgncd?pli=1">Chrome Web Store →</a>

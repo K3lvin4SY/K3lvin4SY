@@ -96,7 +96,7 @@ A full-stack task management application with a frontend, backend API, and Mongo
 <tr>
 <td width="50%" valign="top">
 
-<h2><img src="https://raw.githubusercontent.com/K3lvin4SY/pixcii-fetch/main/src/assets/pixcii-logo.svg" width="22" style="vertical-align: middle;" /> <a href="https://github.com/K3lvin4SY/pixcii-fetch">pixcii-fetch</a></h2>
+<h2><img src="https://raw.githubusercontent.com/K3lvin4SY/pixcii-fetch/main/src/assets/pixcii-logo.svg" width="22"/> <a href="https://github.com/K3lvin4SY/pixcii-fetch">pixcii-fetch</a></h2>
 Convert images into vibrant terminal art for **Neofetch**, **Winfetch**, and **Fastfetch**. Upload any image, preview the output in real-time, and generate the exact configuration code needed.
 
 <sub>React · TypeScript · Vite · Tailwind CSS</sub>

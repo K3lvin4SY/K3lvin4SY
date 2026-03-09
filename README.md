@@ -106,6 +106,8 @@ A full-stack task management application with a frontend, backend API, and Mongo
   </a>
 </h2>
 Convert images into vibrant terminal art for <strong>Neofetch</strong>, <strong>Winfetch</strong>, and <strong>Fastfetch</strong>. Upload any image, preview the output in real-time, and generate the exact configuration code needed.
+<br/>
+<a href="https://pixcii-fetch.donkare.se/">Live Site →</a>
 
 <sub>React · TypeScript · Vite · Tailwind CSS</sub>
 
@@ -118,6 +120,8 @@ Convert images into vibrant terminal art for <strong>Neofetch</strong>, <strong>
   </a>
 </h2>
 Academic companion for tracking grades and visualizing progress — tailored for <strong>LTH students</strong>. Features one-click LADOK transcript import, automatic weighted grade calculation, and a built-in course database.
+<br/>
+<a href="https://gradewise.donkare.se/">Live Site →</a>
 
 <sub>React · TypeScript · Vite · Tailwind CSS</sub>
 

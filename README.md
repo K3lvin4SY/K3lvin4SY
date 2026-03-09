@@ -73,7 +73,7 @@ I love turning ideas into real projects — whether it's a hackathon build, a cr
 <tr>
 <td width="50%" valign="top">
 
-<h3><img src="https://raw.githubusercontent.com/K3lvin4SY/bonsai_lundaihackathon/main/assets/images/icon.png" width="24" style="vertical-align: middle;" /> <a href="https://github.com/K3lvin4SY/bonsai_lundaihackathon">Bonsai</a></h3>
+<h2><img src="https://raw.githubusercontent.com/K3lvin4SY/bonsai_lundaihackathon/main/assets/images/icon.png" width="28" style="vertical-align: middle;" /> <a href="https://github.com/K3lvin4SY/bonsai_lundaihackathon">Bonsai</a></h2>
 A desktop app that gives creative projects a **visual, branch-based history** — built at the Lunda AI Hackathon. Uses *Milestones* instead of commits and *Timelines* instead of branches, making version control intuitive for non-developers working with large binary files.
 
 <sub>Electron · React · TypeScript · xdelta3</sub>
@@ -81,7 +81,7 @@ A desktop app that gives creative projects a **visual, branch-based history** �
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/K3lvin4SY/Task-Manager">Task Manager</a>
+<h2><a href="https://github.com/K3lvin4SY/Task-Manager">Task Manager</a></h2>
 A full-stack task management application with a frontend, backend API, and MongoDB database for creating, organizing, and tracking tasks.
 
 <sub>JavaScript · Node.js · MongoDB</sub>
@@ -96,7 +96,7 @@ A full-stack task management application with a frontend, backend API, and Mongo
 <tr>
 <td width="50%" valign="top">
 
-<h3><img src="https://raw.githubusercontent.com/K3lvin4SY/pixcii-fetch/main/src/assets/pixcii-logo.svg" width="24" style="vertical-align: middle;" /> <a href="https://github.com/K3lvin4SY/pixcii-fetch">pixcii-fetch</a></h3>
+<h2><img src="https://raw.githubusercontent.com/K3lvin4SY/pixcii-fetch/main/src/assets/pixcii-logo.svg" width="28" style="vertical-align: middle;" /> <a href="https://github.com/K3lvin4SY/pixcii-fetch">pixcii-fetch</a></h2>
 Convert images into vibrant terminal art for **Neofetch**, **Winfetch**, and **Fastfetch**. Upload any image, preview the output in real-time, and generate the exact configuration code needed.
 
 <sub>React · TypeScript · Vite · Tailwind CSS</sub>
@@ -104,7 +104,7 @@ Convert images into vibrant terminal art for **Neofetch**, **Winfetch**, and **F
 </td>
 <td width="50%" valign="top">
 
-<h3><img src="https://raw.githubusercontent.com/K3lvin4SY/gradewise/main/public/gradewise-logo.svg" width="24" style="vertical-align: middle;" /> <a href="https://github.com/K3lvin4SY/gradewise">GradeWise</a></h3>
+<h2><img src="https://raw.githubusercontent.com/K3lvin4SY/gradewise/main/public/gradewise-logo.svg" width="28" style="vertical-align: middle;" /> <a href="https://github.com/K3lvin4SY/gradewise">GradeWise</a></h2>
 Academic companion for tracking grades and visualizing progress — tailored for **LTH students**. Features one-click LADOK transcript import, automatic weighted grade calculation, and a built-in course database.
 
 <sub>React · TypeScript · Vite · Tailwind CSS</sub>
@@ -114,7 +114,7 @@ Academic companion for tracking grades and visualizing progress — tailored for
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/K3lvin4SY/Slider-Puzzle">Slider Puzzle</a>
+<h2><a href="https://github.com/K3lvin4SY/Slider-Puzzle">Slider Puzzle</a></h2>
 An HTML slider puzzle game with tools to edit the game environment. Mix and solve the puzzle yourself or let the **A\* pathfinding algorithm** solve it for you.
 <br/>
 <a href="https://k3lvin4sy.github.io/Slider-Puzzle/">Live Demo →</a>
@@ -124,7 +124,7 @@ An HTML slider puzzle game with tools to edit the game environment. Mix and solv
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/K3lvin4SY/Steam-Inventory-History-Filter-Extension">Steam Inventory History Filter</a>
+<h2><a href="https://github.com/K3lvin4SY/Steam-Inventory-History-Filter-Extension">Steam Inventory History Filter</a></h2>
 A Chrome extension for Counter-Strike that lets you **search, filter, sort, and browse** your entire Steam Inventory History.
 <br/>
 <a href="https://chromewebstore.google.com/detail/csgo-history-utility-filt/deikmkamfnmgcpdncpekplbihdnhgncd?pli=1">Chrome Web Store →</a>
@@ -136,7 +136,7 @@ A Chrome extension for Counter-Strike that lets you **search, filter, sort, and 
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/K3lvin4SY/Pixel-Territory">Pixel Territory</a>
+<h2><a href="https://github.com/K3lvin4SY/Pixel-Territory">Pixel Territory</a></h2>
 A multiplayer game where players capture squares of territory across the map. Features custom algorithms including **A\* pathfinding**.
 
 <sub>Scala</sub>
@@ -144,7 +144,7 @@ A multiplayer game where players capture squares of territory across the map. Fe
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/K3lvin4SY/Ludo">Ludo</a>
+<h2><a href="https://github.com/K3lvin4SY/Ludo">Ludo</a></h2>
 The classic board game with **bot opponents** and a built-in map builder for creating custom boards.
 
 <sub>Python</sub>

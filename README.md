@@ -59,7 +59,6 @@ I love turning ideas into real projects — whether it's a side project, a creat
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
-![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobe-indesign&logoColor=white)
 ![Animate](https://img.shields.io/badge/Animate-9999FF?style=flat-square&logo=adobe&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white)
 

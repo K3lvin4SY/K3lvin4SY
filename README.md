@@ -14,7 +14,7 @@ I love turning ideas into real projects — whether it's a hackathon build, a cr
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 <h4>Languages</h4>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -29,7 +29,7 @@ I love turning ideas into real projects — whether it's a hackathon build, a cr
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 <h4>Frameworks & Libraries</h4>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -45,7 +45,7 @@ I love turning ideas into real projects — whether it's a hackathon build, a cr
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 <h4>Tools & Platforms</h4>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -54,7 +54,7 @@ I love turning ideas into real projects — whether it's a hackathon build, a cr
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6600?style=flat-square&logo=autodesk&logoColor=white)
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 <h4>Design</h4>
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)

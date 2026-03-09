@@ -78,7 +78,7 @@ I love turning ideas into real projects — whether it's a hackathon build, a cr
     <img src="https://raw.githubusercontent.com/K3lvin4SY/bonsai_lundaihackathon/main/assets/images/icon.png" width="28" align="absmiddle" />&nbsp;Bonsai
   </a>
 </h2>
-A desktop app that gives creative projects a **visual, branch-based history** — built at the Lunda AI Hackathon. Uses *Milestones* instead of commits and *Timelines* instead of branches, making version control intuitive for non-developers working with large binary files.
+A desktop app that gives creative projects a <strong>visual, branch-based history</strong> — built at the Lunda AI Hackathon. Uses <em>Milestones</em> instead of commits and <em>Timelines</em> instead of branches, making version control intuitive for non-developers working with large binary files.
 
 <sub>Electron · React · TypeScript · xdelta3</sub>
 
@@ -105,7 +105,7 @@ A full-stack task management application with a frontend, backend API, and Mongo
     <img src="https://raw.githubusercontent.com/K3lvin4SY/pixcii-fetch/main/src/assets/pixcii-logo.svg" width="28" align="absmiddle" />&nbsp;pixcii-fetch
   </a>
 </h2>
-Convert images into vibrant terminal art for **Neofetch**, **Winfetch**, and **Fastfetch**. Upload any image, preview the output in real-time, and generate the exact configuration code needed.
+Convert images into vibrant terminal art for <strong>Neofetch</strong>, <strong>Winfetch</strong>, and <strong>Fastfetch</strong>. Upload any image, preview the output in real-time, and generate the exact configuration code needed.
 
 <sub>React · TypeScript · Vite · Tailwind CSS</sub>
 
@@ -117,7 +117,7 @@ Convert images into vibrant terminal art for **Neofetch**, **Winfetch**, and **F
     <img src="https://raw.githubusercontent.com/K3lvin4SY/gradewise/main/public/gradewise-logo.svg" width="28" align="absmiddle" />&nbsp;GradeWise
   </a>
 </h2>
-Academic companion for tracking grades and visualizing progress — tailored for **LTH students**. Features one-click LADOK transcript import, automatic weighted grade calculation, and a built-in course database.
+Academic companion for tracking grades and visualizing progress — tailored for <strong>LTH students</strong>. Features one-click LADOK transcript import, automatic weighted grade calculation, and a built-in course database.
 
 <sub>React · TypeScript · Vite · Tailwind CSS</sub>
 
@@ -127,7 +127,7 @@ Academic companion for tracking grades and visualizing progress — tailored for
 <td width="50%" valign="top">
 
 <h2><a href="https://github.com/K3lvin4SY/Slider-Puzzle">Slider Puzzle</a></h2>
-An HTML slider puzzle game with tools to edit the game environment. Mix and solve the puzzle yourself or let the **A\* pathfinding algorithm** solve it for you.
+An HTML slider puzzle game with tools to edit the game environment. Mix and solve the puzzle yourself or let the <strong>A* pathfinding algorithm</strong> solve it for you.
 <br/>
 <a href="https://k3lvin4sy.github.io/Slider-Puzzle/">Live Demo →</a>
 
@@ -137,7 +137,7 @@ An HTML slider puzzle game with tools to edit the game environment. Mix and solv
 <td width="50%" valign="top">
 
 <h2><a href="https://github.com/K3lvin4SY/Steam-Inventory-History-Filter-Extension">Steam Inventory History Filter</a></h2>
-A Chrome extension for Counter-Strike that lets you **search, filter, sort, and browse** your entire Steam Inventory History.
+A Chrome extension for Counter-Strike that lets you <strong>search, filter, sort, and browse</strong> your entire Steam Inventory History.
 <br/>
 <a href="https://chromewebstore.google.com/detail/csgo-history-utility-filt/deikmkamfnmgcpdncpekplbihdnhgncd?pli=1">Chrome Web Store →</a>
 
@@ -149,7 +149,7 @@ A Chrome extension for Counter-Strike that lets you **search, filter, sort, and 
 <td width="50%" valign="top">
 
 <h2><a href="https://github.com/K3lvin4SY/Pixel-Territory">Pixel Territory</a></h2>
-A multiplayer game where players capture squares of territory across the map. Features custom algorithms including **A\* pathfinding**.
+A multiplayer game where players capture squares of territory across the map. Features custom algorithms including <strong>A* pathfinding</strong>.
 
 <sub>Scala</sub>
 
@@ -157,7 +157,7 @@ A multiplayer game where players capture squares of territory across the map. Fe
 <td width="50%" valign="top">
 
 <h2><a href="https://github.com/K3lvin4SY/Ludo">Ludo</a></h2>
-The classic board game with **bot opponents** and a built-in map builder for creating custom boards.
+The classic board game with <strong>bot opponents</strong> and a built-in map builder for creating custom boards.
 
 <sub>Python</sub>
 

@@ -10,7 +10,7 @@ I love turning ideas into real projects — whether it's a side project, a creat
 
 </div>
 
-## <img src="tool.svg" width="20" /> Skills & Technologies
+## <img src="tool.svg" width="25" /> Skills & Technologies
 
 <table>
 <tr>
@@ -66,7 +66,7 @@ I love turning ideas into real projects — whether it's a side project, a creat
 </tr>
 </table>
 
-## <img src="barrier-block.svg" width="20" /> Currently Working On
+## <img src="barrier-block.svg" width="25" /> Currently Working On
 
 <table>
 <tr>
@@ -93,7 +93,7 @@ A full-stack task management application with a frontend, backend API, and Mongo
 </tr>
 </table>
 
-## <img src="circle-check.svg" width="20" /> Finished Projects
+## <img src="circle-check.svg" width="25" /> Finished Projects
 
 <table>
 <tr>

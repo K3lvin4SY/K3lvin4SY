@@ -10,7 +10,7 @@ I love turning ideas into real projects — whether it's a side project, a creat
 
 </div>
 
-## <img src="tool.svg" width="25" /> Skills & Technologies
+## <img src="assets/tool.svg" width="25" /> Skills & Technologies
 
 <table>
 <tr>
@@ -66,7 +66,7 @@ I love turning ideas into real projects — whether it's a side project, a creat
 </tr>
 </table>
 
-## <img src="barrier-block.svg" width="25" /> Currently Working On
+## <img src="assets/barrier-block.svg" width="25" /> Currently Working On
 
 <table>
 <tr>
@@ -84,16 +84,20 @@ A desktop app that gives creative projects a <strong>visual, branch-based histor
 </td>
 <td width="50%" valign="top">
 
-<h2><a href="https://github.com/K3lvin4SY/Task-Manager">Task Manager</a></h2>
-A full-stack task management application with a frontend, backend API, and MongoDB database for creating, organizing, and tracking tasks.
+<h2>
+  <img src="assets/forklift_icon_large.svg" width="28" align="absmiddle" />&nbsp;CSForklift
+</h2>
+A desktop app for managing multiple CS2 Steam account inventories from one place. Connect accounts via <strong>QR code</strong>, browse item collections, manage storage units, and transfer items between accounts, all without ever opening Steam or CS2.
+<br/>
+<em>Currently in active development — release coming later</em>
 
-<sub>JavaScript · Node.js · MongoDB</sub>
+<sub>Electron · React · TypeScript · Prisma · SQLite</sub>
 
 </td>
 </tr>
 </table>
 
-## <img src="circle-check.svg" width="25" /> Finished Projects
+## <img src="assets/circle-check.svg" width="25" /> Finished Projects
 
 <table>
 <tr>
@@ -106,7 +110,7 @@ A full-stack task management application with a frontend, backend API, and Mongo
 </h2>
 Convert images into vibrant terminal art for <strong>Neofetch</strong>, <strong>Winfetch</strong>, and <strong>Fastfetch</strong>. Upload any image, preview the output in real-time, and generate the exact configuration code needed.
 <br/>
-<a href="https://pixcii-fetch.donkare.se/">Live Site →</a>
+<a href="https://pixcii-fetch.donkare.se/">Live Site <img src="assets/external-link.svg" width="18" align="texttop" /></a>
 
 <sub>React · TypeScript · Vite · Tailwind CSS</sub>
 
@@ -120,7 +124,7 @@ Convert images into vibrant terminal art for <strong>Neofetch</strong>, <strong>
 </h2>
 Academic companion for tracking grades and visualizing progress — tailored for <strong>LTH students</strong>. Features one-click LADOK transcript import, automatic weighted grade calculation, and a built-in course database.
 <br/>
-<a href="https://gradewise.donkare.se/">Live Site →</a>
+<a href="https://gradewise.donkare.se/">Live Site <img src="assets/external-link.svg" width="18" align="texttop" /></a>
 
 <sub>React · TypeScript · Vite · Tailwind CSS</sub>
 
@@ -132,7 +136,7 @@ Academic companion for tracking grades and visualizing progress — tailored for
 <h2><a href="https://github.com/K3lvin4SY/Slider-Puzzle">Slider Puzzle</a></h2>
 An HTML slider puzzle game with tools to edit the game environment. Mix and solve the puzzle yourself or let the <strong>A* pathfinding algorithm</strong> solve it for you.
 <br/>
-<a href="https://k3lvin4sy.github.io/Slider-Puzzle/">Live Demo →</a>
+<a href="https://k3lvin4sy.github.io/Slider-Puzzle/">Live Demo <img src="assets/external-link.svg" width="18" align="texttop" /></a>
 
 <sub>HTML · CSS · JavaScript</sub>
 
@@ -146,7 +150,7 @@ An HTML slider puzzle game with tools to edit the game environment. Mix and solv
 </h2>
 A Chrome extension for Counter-Strike that lets you <strong>search, filter, sort, and browse</strong> your entire Steam Inventory History.
 <br/>
-<a href="https://chromewebstore.google.com/detail/csgo-history-utility-filt/deikmkamfnmgcpdncpekplbihdnhgncd?pli=1">Chrome Web Store →</a>
+<a href="https://chromewebstore.google.com/detail/csgo-history-utility-filt/deikmkamfnmgcpdncpekplbihdnhgncd?pli=1">Chrome Web Store <img src="assets/external-link.svg" width="18" align="texttop" /></a>
 
 <sub>JavaScript · Chrome Extensions API</sub>
 

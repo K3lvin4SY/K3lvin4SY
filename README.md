@@ -95,6 +95,21 @@ A desktop app for managing multiple CS2 Steam account inventories from one place
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h2>
+  <img src="assets/platsval_logo.svg" width="28" align="absmiddle" />&nbsp;Platsval
+</h2>
+A restaurant table booking service where customers <strong>visually pick their table</strong> — just like cinema seat selection. Restaurant owners build an interactive floor plan, attach photos and info to each table, and customers browse and book directly from the restaurant's website.
+<br/>
+<em>Currently in active development - release coming later</em>
+
+<sub>Next.js · Konva.js · Supabase</sub>
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 ## <img src="assets/circle-check.svg" width="25" /> Finished Projects

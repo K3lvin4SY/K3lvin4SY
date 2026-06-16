@@ -74,7 +74,7 @@ I love turning ideas into real projects — whether it's a side project, a creat
 
 <h2>
   <a href="https://github.com/K3lvin4SY/bonsai_lundaihackathon">
-    <img src="https://raw.githubusercontent.com/K3lvin4SY/bonsai_lundaihackathon/main/assets/images/icon.png" width="28" align="absmiddle" />&nbsp;Bonsai
+    <img src="assets/bonsai_logo.svg" width="28" align="absmiddle" />&nbsp;Bonsai
   </a>
 </h2>
 A desktop app that gives creative projects a <strong>visual, branch-based history</strong> — built at a hackathon. Uses <em>Milestones</em> instead of commits and <em>Timelines</em> instead of branches, making version control intuitive for non-developers working with large binary files.

@@ -57,6 +57,7 @@ I love turning ideas into real projects — whether it's a side project, a creat
 <td align="center" width="50%" valign="top">
 <h4>Design</h4>
 
+![Figma](https://img.shields.io/badge/Figma-1e1e1e?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![Animate](https://img.shields.io/badge/Animate-9999FF?style=flat-square&logo=adobe&logoColor=white)

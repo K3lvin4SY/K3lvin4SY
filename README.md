@@ -78,7 +78,7 @@ I love turning ideas into real projects - whether it's a side project, a creativ
     <img src="assets/bonsai_logo.svg" width="28" align="absmiddle" />&nbsp;Bonsai
   </a>
 </h2>
-A desktop app that gives creative projects a <strong>visual, branch-based history</strong> — built at a hackathon. Uses <em>Milestones</em> instead of commits and <em>Timelines</em> instead of branches, making version control intuitive for non-developers working with large binary files.
+A desktop app that gives creative projects a <strong>visual, branch-based history</strong>, built at a hackathon. Uses <em>Milestones</em> instead of commits and <em>Timelines</em> instead of branches, making version control intuitive for non-developers working with large binary files.
 
 <sub>Electron · React · TypeScript · xdelta3</sub>
 
@@ -90,7 +90,7 @@ A desktop app that gives creative projects a <strong>visual, branch-based histor
 </h2>
 A desktop app for managing multiple CS2 Steam account inventories from one place. Connect accounts via <strong>QR code</strong>, browse item collections, manage storage units, and transfer items between accounts, all without ever opening Steam or CS2.
 <br/>
-<em>Currently in active development — release coming later</em>
+<em>Currently in active development, release coming later</em>
 
 <sub>Electron · React · TypeScript · Prisma · SQLite</sub>
 
@@ -104,7 +104,7 @@ A desktop app for managing multiple CS2 Steam account inventories from one place
 </h2>
 A restaurant table booking service where customers <strong>visually pick their table</strong> — just like cinema seat selection. Restaurant owners build an interactive floor plan, attach photos and info to each table, and customers browse and book directly from the restaurant's website.
 <br/>
-<em>Currently in active development - release coming later</em>
+<em>Currently in active development, release coming later</em>
 
 <sub>Next.js · Konva.js · Supabase</sub>
 
@@ -138,7 +138,7 @@ Convert images into vibrant terminal art for <strong>Neofetch</strong>, <strong>
     <img src="https://raw.githubusercontent.com/K3lvin4SY/gradewise/main/public/gradewise-logo.svg" width="28" align="absmiddle" />&nbsp;GradeWise
   </a>
 </h2>
-Academic companion for tracking grades and visualizing progress — tailored for <strong>LTH students</strong>. Features one-click LADOK transcript import, automatic weighted grade calculation, and a built-in course database.
+Academic companion for tracking grades and visualizing progress - tailored for <strong>LTH students</strong>. Features one-click LADOK transcript import, automatic weighted grade calculation, and a built-in course database.
 <br/>
 <a href="https://gradewise.donkare.se/">Live Site <img src="assets/external-link.svg" width="18" align="texttop" /></a>
 

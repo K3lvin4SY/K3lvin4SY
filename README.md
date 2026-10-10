@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey there!
+# Hello!
 
-**I'm 22 years old, currently in my 3rd year of a Master's in Information & Communication Technology at Lunds Tekniska Högskola (LTH).**
+**I'm 22 years old, currently in my 4rd year of a Master's in Information & Communication Technology at Lunds Tekniska Högskola (LTH).**
 
-I love turning ideas into real projects — whether it's a side project, a creative tool, or just a fun experiment.
+I love turning ideas into real projects - whether it's a side project, a creative tool, or just a fun experiment.
 
 ---
 

@@ -177,6 +177,8 @@ A Chrome extension for Counter-Strike that lets you <strong>search, filter, sort
 
 <h2><a href="https://github.com/K3lvin4SY/Pixel-Territory">Pixel Territory</a></h2>
 A multiplayer game where players capture squares of territory across the map. Features custom algorithms including <strong>A* pathfinding</strong>.
+<br/>
+<a href="https://pixel-territory.donkare.se">Live Demo <img src="assets/external-link.svg" width="18" align="texttop" /></a>
 
 <sub>Scala</sub>
 

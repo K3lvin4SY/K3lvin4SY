@@ -80,6 +80,9 @@ I love turning ideas into real projects - whether it's a side project, a creativ
 </h2>
 A desktop app that gives creative projects a <strong>visual, branch-based history</strong>, built at a hackathon. Uses <em>Milestones</em> instead of commits and <em>Timelines</em> instead of branches, making version control intuitive for non-developers working with large binary files.
 
+<br/>
+<em>The latest release is available <a href="https://github.com/K3lvin4SY/bonsai_lundaihackathon/releases/tag/v1.5.1">here. <img src="assets/external-link.svg" width="18" align="texttop" /></a></em>
+
 <sub>Electron · React · TypeScript · xdelta3</sub>
 
 </td>
@@ -109,8 +112,20 @@ A restaurant table booking service where customers <strong>visually pick their t
 <sub>Next.js · Konva.js · Supabase</sub>
 
 </td>
-<td width="50%" valign="top"></td>
-</tr>
+<td width="50%" valign="top">
+
+<h2>
+  <a href="https://github.com/K3lvin4SY/prism">
+    <img src="assets/prism_logo.png" width="28" align="absmiddle" />&nbsp;Prism
+  </a>
+</h2>
+A suite of <strong>twelve extensions for Pterodactyl Panel 2.0</strong>, the open-source game server manager. Install only the ones you need: themes and layouts, a VS Code style file editor, a database manager, smarter backups and schedules, OAuth sign-in, and built-in tools for <strong>Minecraft, Terraria and Core Keeper</strong> with players, world maps, versions and mods. All the settings live on one shared admin page with a live preview.
+<br/>
+<em>Currently in active development, release coming later</em>
+
+<sub>React · TypeScript · PHP · Laravel · Tailwind CSS</sub>
+
+</td>
 </table>
 
 ## <img src="assets/circle-check.svg" width="25" /> Finished Projects
